@@ -1,1 +1,1 @@
-moveit_py:rclpy
+moveit_py:rclpy:ros_gz_sim:ros_gz_sim_bridge

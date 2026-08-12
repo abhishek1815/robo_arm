@@ -10,6 +10,10 @@
   <depend>rclpy</depend>
   <depend>moveit_py</depend>
 
+  <exec_depend>ros_gz_sim</exec_depend>
+  <exec_depend>ros_gz_sim_bridge</exec_depend>
+
+
   <test_depend>ament_copyright</test_depend>
   <test_depend>ament_flake8</test_depend>
   <test_depend>ament_pep257</test_depend>

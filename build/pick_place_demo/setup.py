@@ -1,1 +1,0 @@
-/home/abhishek_24/robo_arm/src/pick_place_demo/setup.py
